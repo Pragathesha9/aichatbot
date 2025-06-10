@@ -18,7 +18,7 @@ Requirements
 
 Installation
 
-1. Clone the repository using git clone https://github.com/your-pragathesha9/aichatbot-project.git
+1. Clone the repository using git clone https: https://github.com/Pragathesha9/aichatbot.git
 2. Install the required libraries using pip install -r requirements.txt
 3. Run the chatbot using python chatbot.py
 
